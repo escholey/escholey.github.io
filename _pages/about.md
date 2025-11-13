@@ -11,6 +11,6 @@ I am a final year PhD student in Psychology at the [Motivation and Social Neuros
 
 Working with Prof. [Matthew Apps](https://www.msn-lab.com/dr-matthew-apps) and Prof. [Mark Humphries](https://humphries-lab.org), I examine the behavioural, computational and neural mechanisms underlying human decision-making, learning and motivation. 
 
-My research to date has investigated how people decide whether to commit to an opportunity or forego it, depending on the opportunity costs of the environment. I examine how these decisions are influenced by effort demands, and how dopaminergic mechanisms contribute to learning and motivation during opportunity cost decisions. 
+My research explores how people decide when to commit to an opportunity or forego it, especially when these opportunities require physical effort to pursue. I study the brain anatomy and dopaminergic mechanisms that contribute to how we learn about the opportunity costs of the environment, and how this influences our motivation.
 
 Funded by the Medical Research Council ([IMPACT](https://more.bham.ac.uk/mrc-impact/)). 

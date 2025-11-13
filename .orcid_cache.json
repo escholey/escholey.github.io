@@ -1,0 +1,49 @@
+{
+  "publications": {
+    "195541170": {
+      "title": "Stochastic choice drives variability in patch foraging decisions across species",
+      "venue": "",
+      "date": "2025-10-29",
+      "doi": "10.1101/2025.10.28.685063",
+      "paper_url": "https://doi.org/10.1101/2025.10.28.685063",
+      "citation": "Scholey, E. V., Apps, M. A., and Humphries, M. D., (2025), Stochastic choice drives variability in patch foraging decisions across species, https://doi.org/10.1101/2025.10.28.685063.",
+      "permalink": "2025-Stochastic-choice-drives-variability-in-patch-fora",
+      "put_code": 195541170,
+      "work_type": "preprint"
+    },
+    "193638260": {
+      "title": "Foraging as an ethological framework for neuroscience",
+      "venue": "Trends in Neurosciences",
+      "date": "2025-10-01",
+      "doi": "10.1016/j.tins.2025.08.006",
+      "paper_url": "https://doi.org/10.1016/j.tins.2025.08.006",
+      "citation": "Grima, L. L. et al., (2025), Foraging as an ethological framework for neuroscience, Trends in Neurosciences, https://doi.org/10.1016/j.tins.2025.08.006.",
+      "permalink": "2025-Foraging-as-an-ethological-framework-for-neuroscie",
+      "put_code": 193638260,
+      "work_type": "journal-article"
+    },
+    "163534644": {
+      "title": "The neuroeconomics of work: Computational and neural mechanisms of the dynamics of effort-based decisions",
+      "venue": "",
+      "date": "2024-07-12",
+      "doi": "10.31234/osf.io/csbv7",
+      "paper_url": "https://doi.org/10.31234/osf.io/csbv7",
+      "citation": "Scholey, E., Lugtmeijer, S., and Apps, M. A. J., (2024), The neuroeconomics of work: Computational and neural mechanisms of the dynamics of effort-based decisions, https://doi.org/10.31234/osf.io/csbv7.",
+      "permalink": "2024-The-neuroeconomics-of-work-Computational-and-neura",
+      "put_code": 163534644,
+      "work_type": "preprint"
+    },
+    "129125531": {
+      "title": "Fatigue",
+      "venue": "Current Biology",
+      "date": "2022-08-22",
+      "doi": "10.1016/j.cub.2022.06.088",
+      "paper_url": "https://doi.org/10.1016/j.cub.2022.06.088",
+      "citation": "Scholey, E. and Apps, M., (2022), Fatigue, Current Biology, https://doi.org/10.1016/j.cub.2022.06.088.",
+      "permalink": "2022-Fatigue",
+      "put_code": 129125531,
+      "work_type": "journal-article"
+    }
+  },
+  "last_updated": "2025-11-13T17:53:46.544607"
+}

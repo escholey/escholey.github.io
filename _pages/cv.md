@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Last updated: 13 November 2025
+
+<embed src="{{ site.baseurl }}/files/cv_escholey.pdf" width="600" height="700" type='application/pdf'> 
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
-======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -62,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->

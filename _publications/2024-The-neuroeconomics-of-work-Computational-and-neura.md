@@ -1,5 +1,5 @@
 ---
-category: manuscripts
+category: books
 citation: 'Scholey, E., Lugtmeijer, S., and Apps, M. A. J., (2024), The neuroeconomics
   of work: Computational and neural mechanisms of the dynamics of effort-based decisions,
   https://doi.org/10.31234/osf.io/csbv7.'

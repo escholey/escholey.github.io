@@ -26,11 +26,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Emma V. Scholey"
   pronouns         : "she/her"
-  bio              : "Postdoctoral researcher in the Motivation and Social Neuroscience lab"
-  location         : "Birmingham, UK"
-  employer         : "University of Birmingham"
+  bio              : "Postdoctoral researcher in the Computational Psychiatry lab"
+  location         : "Oxford, UK"
+  employer         : "University of Oxford"
   uri              :  #
-  email            : "e.v.scholey@bham.ac.uk" 
+  email            : "emma.scholey@psych.ox.ac.uk" 
 
   # Academic websites
   academia         : # URL
